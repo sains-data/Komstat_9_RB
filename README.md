@@ -1,13 +1,13 @@
-# Komstat_9_RB
+# Analisis dan Optimasi Kualitas Dataset Produksi Durian Provinsi Lampung (2021–2024) Menggunakan Teknik Munging dan Wrangling dalam Komputasi Statistik
 
 ## Nama Anggota:
 
-| Nama | NIM |
-| :--- | :--- |
-| Devyna Sonya Palupi Sanjaya | (123450007) |
-| Ken Gracya Waoma | (123450045) |
-| Ali Aristo Muthhahari Parisi | (123450088) |
-| Hanifah Inaya Sani | (123450123) |
+| Nama | NIM | Email |
+| :--- | :--- | :--- |
+| Devyna Sonya Palupi Sanjaya | (123450007) | devyna.123450007@student.itera.ac.id |
+| Ken Gracya Waoma | (123450045) | ken.123450045@student.itera.ac.id |
+| Ali Aristo Muthhahari Parisi | (123450088) | ali.123450088@student.itera.ac.id |
+| Hanifah Inaya Sani | (123450123) | hanifah.123450123@student.itera.ac.id |
 
 ## Link: https://s.itera.id/Komstat_9_RB
 
